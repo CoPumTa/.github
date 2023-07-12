@@ -2,21 +2,21 @@
 
 코딩을 품은 타이머, 줄여서 **코품타**는 여러분의 슬기로운 코딩 생활을 도와줄 최적의 파트너 앱입니다.
 
-| 홈                                                         | 타이머                                                      | 챌린지                                                         |
+| 홈   | 타이머                                                      | 챌린지                                                         |
 | ---------------------------------------------------------- | ----------------------------------------------------------- | -------------------------------------------------------------- |
-| <img src="images/kopumta (9).jpg" width = 200 alt="홈 탭"> | <img src="images/kopumta (6).jpg" width = 200 alt="타이머"> | <img src="images/kopumta (2).jpg" width = 200 alt="챌린지 탭"> |
+| <img src="https://github.com/CoPumTa/.github/assets/88723775/aaf66f7c-8771-4c08-ade9-5f416c2f55ab" width = 200 alt="홈 탭"> | <img src="https://github.com/CoPumTa/.github/assets/88723775/d4a9bb1a-18ef-4f1e-9ef1-d8efe03cbef1" width = 200 alt="타이머"> | <img src="https://github.com/CoPumTa/.github/assets/88723775/8780e850-a20c-4e3b-87df-7cdb56f6f6c6" width = 200 alt="챌린지 탭"> |
 
 ## 코품타에 대하여
 
 ### 여러분의 하루 코딩 시간을 측정하세요.
 
-코딩에 몰입하기 전, 타이머를 눌러서 몰입 모드에 돌입할 수 있습니다. 몰입 모드에 진입하면 타이머가 시작되며 여러분의 코딩 시간이 기록됩니다.
+코딩에 몰입하기 전, 타이머를 눌러서 몰입 모드에 돌입할 수 있습니다. 몰입 모드에 진입하면 타이머가 시작되며 여러분의 현재 몰입한 코딩 시간과 오늘 몰입한 총 시간이 기록됩니다.
 
 또한, 홈 탭에서는 몰입 랭킹, 현재 몰입하고 있는 친구들, 나의 Github Contributions 현황을 한번에 볼 수 있습니다.
 
 | 홈                                                         | 타이머                                                      |
 | ---------------------------------------------------------- | ----------------------------------------------------------- |
-| <img src="images/kopumta (9).jpg" width = 200 alt="홈 탭"> | <img src="images/kopumta (6).jpg" width = 200 alt="타이머"> |
+| <img src="https://github.com/CoPumTa/.github/assets/88723775/aaf66f7c-8771-4c08-ade9-5f416c2f55ab" width = 200 alt="홈 탭"> | <img src="https://github.com/CoPumTa/.github/assets/88723775/d4a9bb1a-18ef-4f1e-9ef1-d8efe03cbef1" width = 200 alt="타이머"> |
 
 ### 훌륭한 프로그래머가 되기 위해, 다른 사람들과 함께 챌린지에 도전하세요.
 
@@ -24,21 +24,22 @@
 
 | 챌린지 목록                                                      | 챌린지 추가                                                      | 챌린지 추가 예시                                                      |
 | ---------------------------------------------------------------- | ---------------------------------------------------------------- | --------------------------------------------------------------------- |
-| <img src="images/kopumta (2).jpg" width = 200 alt="챌린지 목록"> | <img src="images/kopumta (3).jpg" width = 200 alt="챌린지 추가"> | <img src="images/kopumta (4).jpg" width = 200 alt="챌린지 추가 예시"> |
+| <img src="https://github.com/CoPumTa/.github/assets/88723775/8780e850-a20c-4e3b-87df-7cdb56f6f6c6" width = 200 alt="챌린지 목록"> | <img src="https://github.com/CoPumTa/.github/assets/88723775/5e3a1599-88f8-46c9-8f75-164b0c49dc84" width = 200 alt="챌린지 추가"> | <img src="https://github.com/CoPumTa/.github/assets/88723775/57eda4b7-41b7-42f6-9835-bf35b7f9654d" width = 200 alt="챌린지 추가 예시"> |
 
 ### 리워드로 자신을 뽐내보세요. (구현 예정)
 
 | 리워드                                                     |
 | ---------------------------------------------------------- |
-| <img src="images/kopumta (7).jpg" width = 200 alt="홈 탭"> |
+| <img src="https://github.com/CoPumTa/.github/assets/88723775/02c33900-eb56-4e97-96f3-d2f726c015e7" width = 200 alt="홈 탭"> |
 
 몰입 시간에 비례하여 리워드를 받을 수 있습니다. 해당 리워드를 통해서는 챌린지에 도전할 수도 있고, 스토어에서 코품타 굿즈를 구매할 수도 있습니다. 멋진 디지털 굿즈를 통해 자신만의 개성적인 프로필을 꾸며보세요.
 
 ### 로그인
 
+
 | 로그인                                                      |
 | ----------------------------------------------------------- |
-| <img src="images/kopumta (10).jpg" width = 200 alt="홈 탭"> |
+| <img src="https://github.com/CoPumTa/.github/assets/88723775/e49c47a7-1111-49a4-b3c8-8c760c2e7013" width = 200 alt="홈 탭"> |
 
 로컬 로그인 & 회원가입, 카카오 로그인 & 회원가입을 지원합니다.
 
@@ -83,7 +84,7 @@
 ---
 
 <br>
-<img src="images/kopumta (1).jpg" width = 220>
+<img src="https://github.com/CoPumTa/.github/assets/88723775/584b9588-0460-4a4e-926c-194ed7586cb2" width = 220>
 
 _소중한 코딩 토템, 윌슨을 추억하며...._
 
